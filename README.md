@@ -18,6 +18,6 @@ Make data analysis faster for students and beginners by automating:
 - Streamlit (planned)
 
 ## 👨‍💻 Built by
-[Hammad](https://www.instagram.com/iamhammad.a/)) | Young Tech Innovator
+[Hammad](https://www.instagram.com/iamhammad.a/) | Young Tech Innovator
 
 *Follow the journey: Building in public, learning in public.*
